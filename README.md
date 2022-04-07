@@ -31,6 +31,6 @@ fake = Faker()
 
 Para poder usarlo, llamaremos el método de los datos que deseas generar aleatoriamente.
 
-````
+````python
 print(fake.name())
 ````
