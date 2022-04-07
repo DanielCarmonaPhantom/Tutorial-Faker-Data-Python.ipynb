@@ -1,6 +1,6 @@
 # Tutorial Faker Data Python
 
-Tutorial para aprender a crear data fake para proyectos:
+Tutorial para generar data fake para proyectos:
 Puedes acceder a la [documentación](https://faker.readthedocs.io/en/master/)
 
 Para que puedo utilizar Faker:
