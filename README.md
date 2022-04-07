@@ -15,7 +15,7 @@ Contenido:
 
 ## 1. Introducción
 
-###Quick start
+<h3>Quick start</h3>
 
 Para poder utilizar la librería, procederemos a instalarla en nuestro entorno local. Utilizaremos el instalador de paquetes de `pip` o si es el caso `pip3`
 
