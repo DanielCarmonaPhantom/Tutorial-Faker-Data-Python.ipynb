@@ -1,16 +1,4 @@
----
-jupyter:
-  colab:
-    name: Tutorial Fake Data Python.ipynb
-    toc_visible: true
-  kernelspec:
-    display_name: Python 3
-    name: python3
-  language_info:
-    name: python
-  nbformat: 4
-  nbformat_minor: 0
----
+
 
 ::: {.cell .markdown id="OnsjR4Q0hHbL"}
 # Tutorial Faker Data Python
