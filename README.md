@@ -1,1 +1,0 @@
-# Tutorial Faker Data Python
