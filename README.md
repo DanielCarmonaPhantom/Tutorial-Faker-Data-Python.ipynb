@@ -24,10 +24,10 @@ pip install Faker
 ````
 
 Una vez instalado debemos importarlo y crear una instancia.
-````
+```python
 from faker import Faker
 fake = Faker()
-````
+```
 
 Para poder usarlo, llamaremos el método de los datos que deseas generar aleatoriamente.
 
